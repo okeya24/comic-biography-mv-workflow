@@ -1,54 +1,9 @@
-# Remotion video
+# 漫画人物传记 MV 制作方案
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+一套从素材整理、事实核对、分镜讨论、声画小样到全片验收的可复用流程，适合使用漫画或插画素材制作人物传记短片。
 
-Welcome to your Remotion project!
+- [阅读完整制作方案与开工提示词](docs/漫画人物传记MV制作方案.md)
+- 实际案例：90 秒、16:9、无口播的人物传记；项目配置可按需求调整。
+- 仓库只保存方法文档和原始 Remotion 项目脚手架；本次视频、音乐、图片素材及后来创建的工程文件均未上传。
 
-## Commands
-
-**Install Dependencies**
-
-```console
-npm i --loglevel=error
-```
-
-**Start Preview**
-
-```console
-npm run dev
-```
-
-**Render video**
-
-```console
-npx remotion render
-```
-
-**Upgrade Remotion**
-
-```console
-npx remotion upgrade
-```
-
-## Docs
-
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+使用前请按具体用途核对人物资料、图片和音乐授权，并安排完整声画验收。
